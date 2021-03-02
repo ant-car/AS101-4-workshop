@@ -1,0 +1,3 @@
+fileignoreconfig:
+- filename: danger.pem
+  checksum: 3db0abe3b5595dffc0690b570f6016bf43e0170c4d5dadd8d37fcebd59f6d468
